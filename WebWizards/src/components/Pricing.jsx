@@ -64,6 +64,8 @@ const Pricing = () => {
                 {text: "Offline Viewing", included: false},
                 {text: "No Ads", included: true},
                 {text: "Mobile & Tablet Support", included: true},
+                {text: "Exclusive Content", included: false},
+                {text: "Unlimited Downloads", included: false},
                 {text: "Cancel Anytime", included: true},
             ],
             buttonText: "Get Started"
@@ -76,6 +78,8 @@ const Pricing = () => {
                 {text: "Offline Viewing", included: true},
                 {text: "No Ads", included: true},
                 {text: "Mobile & Tablet Support", included: true},
+                {text: "Exclusive Content", included: false},
+                {text: "Unlimited Downloads", included: false},
                 {text: "Cancel Anytime", included: true},
             ],
             buttonText: "Get Started"
