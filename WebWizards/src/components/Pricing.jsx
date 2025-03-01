@@ -159,7 +159,7 @@ const Pricing = () => {
                                         <FiCheck className="mx-auto text-green-500" />
                                     </td>
                                 </tr>
-                                <tr>
+                                <tr  className="border-b border-gray-200">
                                     <td className="p-4 font-medium">Offline Viewing</td>
                                     <td className="p-4 text-center">
                                         <FiX className="mx-auto text-red-500" />
@@ -171,7 +171,7 @@ const Pricing = () => {
                                         <FiCheck className="mx-auto text-green-500" />
                                     </td>
                                 </tr>
-                                <tr>
+                                <tr  className="border-b border-gray-200">
                                     <td className="p-4 font-medium">No Ads</td>
                                     <td className="p-4 text-center">
                                         <FiCheck className="mx-auto text-green-500" />
@@ -183,7 +183,7 @@ const Pricing = () => {
                                         <FiCheck className="mx-auto text-green-500" />
                                     </td>
                                 </tr>
-                                <tr>
+                                <tr  className="border-b border-gray-200">
                                     <td className="p-4 font-medium">Mobile & Tablet Support</td>
                                     <td className="p-4 text-center">
                                         <FiCheck className="mx-auto text-green-500" />
@@ -195,7 +195,7 @@ const Pricing = () => {
                                         <FiCheck className="mx-auto text-green-500" />
                                     </td>
                                 </tr>
-                                <tr>
+                                <tr  className="border-b border-gray-200">
                                     <td className="p-4 font-medium">Exclusive Content</td>
                                     <td className="p-4 text-center">
                                         <FiX className="mx-auto text-red-500" />
@@ -207,7 +207,7 @@ const Pricing = () => {
                                         <FiCheck className="mx-auto text-green-500" />
                                     </td>
                                 </tr>
-                                <tr>
+                                <tr  className="border-b border-gray-200">
                                     <td className="p-4 font-medium">Unlimited Downloads</td>
                                     <td className="p-4 text-center">
                                         <FiX className="mx-auto text-red-500" />
@@ -219,7 +219,7 @@ const Pricing = () => {
                                         <FiCheck className="mx-auto text-green-500" />
                                     </td>
                                 </tr>
-                                <tr>
+                                <tr  className="border-b border-gray-200">
                                     <td className="p-4 font-medium">Cancel Anytime</td>
                                     <td className="p-4 text-center">
                                         <FiCheck className="mx-auto text-green-500" />
