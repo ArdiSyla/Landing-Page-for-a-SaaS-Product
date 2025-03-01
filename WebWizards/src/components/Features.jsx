@@ -40,8 +40,8 @@ const Features = () => {
         },
         {
             icon: <FiShield size={28} />,
-            title: "Safe Environment",
-            description: "We provide a safe and secure environment for all learners."
+            title: "Secure your website",
+            description: "Learn how to secure your website and protect your data."
         },
         {
             icon: <FiBarChart2 size={28} />,
